@@ -1,0 +1,3 @@
+The .ly* files present here are scripts for klayout's LVS, DRC, etc.
+
+https://www.klayout.de/doc-qt5/manual/lvs_overview.html#h2-64

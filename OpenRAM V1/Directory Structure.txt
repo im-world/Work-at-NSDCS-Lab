@@ -1,0 +1,9 @@
+DIRECTORY STRUCTURE
+
+compiler - openram compiler itself (pointed to by OPENRAM_HOME)
+compiler/characterizer - timing characterization code
+compiler/gdsMill - gds reader/writer
+compiler/tests - unit tests
+technology/freepdk45 - example configuration library for freepdk45 technology node
+technology/scn3me_subm - example configuration library SCMOS technology node
+technology/setup_scripts - setup scripts to customize your PDKs and OpenRAM technologies

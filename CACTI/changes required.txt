@@ -1,0 +1,9 @@
+• mem_array class, dynamic parameters class 
+• threshold voltages in const.h
+• mat.cc (line 92)
+
+• Seems like we ought to modify the bitcell, and make 
+  corresponding changes to the subarray - but 
+  which files (compute_C() in subarray.cc?) ? 
+
+• change area of cell, a few other parameters in technology.cc
